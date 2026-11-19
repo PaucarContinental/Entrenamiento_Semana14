@@ -1,0 +1,72 @@
+{
+  "model": "HOG + SVM C-SVC lineal",
+  "classes": [
+    "canned",
+    "cereal",
+    "cookies",
+    "detergent",
+    "empty",
+    "juice",
+    "milk",
+    "soda",
+    "water"
+  ],
+  "label_to_index": {
+    "canned": 0,
+    "cereal": 1,
+    "cookies": 2,
+    "detergent": 3,
+    "empty": 4,
+    "juice": 5,
+    "milk": 6,
+    "soda": 7,
+    "water": 8
+  },
+  "hog": {
+    "window": [
+      72,
+      96
+    ],
+    "block": [
+      16,
+      16
+    ],
+    "stride": [
+      8,
+      8
+    ],
+    "cell": [
+      8,
+      8
+    ],
+    "orientation_bins": 9,
+    "input": "escala de grises"
+  },
+  "svm": {
+    "kernel": "LINEAR",
+    "C": 1.0
+  },
+  "captures": {
+    "train": [
+      "Captura_002",
+      "Captura_003",
+      "Captura_004",
+      "Captura_005",
+      "Captura_006",
+      "Captura_007",
+      "Captura_008",
+      "Captura_009",
+      "captura_001"
+    ],
+    "validation": [
+      "Captura_010",
+      "Captura_011",
+      "Captura_012"
+    ],
+    "test": [
+      "Captura_013",
+      "Captura_014",
+      "Captura_015"
+    ]
+  }
+}

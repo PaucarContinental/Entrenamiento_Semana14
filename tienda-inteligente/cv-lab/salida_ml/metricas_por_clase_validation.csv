@@ -1,0 +1,10 @@
+﻿class_id,support,predicted_count,precision,recall,f1
+canned,3,3,1.0,1.0,1.0
+cereal,4,6,0.6667,1.0,0.8
+cookies,4,6,0.6667,1.0,0.8
+detergent,2,0,0.0,0.0,0.0
+empty,70,68,0.9706,0.9429,0.9565
+juice,1,1,0.0,0.0,0.0
+milk,4,2,1.0,0.5,0.6667
+soda,4,6,0.6667,1.0,0.8
+water,4,4,0.5,0.5,0.5

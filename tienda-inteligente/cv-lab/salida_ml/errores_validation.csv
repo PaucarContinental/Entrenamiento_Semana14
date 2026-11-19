@@ -1,0 +1,12 @@
+﻿capture_id,slot,crop_path,real,predicha
+Captura_010,8,C:\Users\estudiante\Desktop\Entrenamiento\tienda-inteligente\cv-lab\dataset\images\crops\detergent\Captura_010_slot_08.png,detergent,water
+Captura_010,15,C:\Users\estudiante\Desktop\Entrenamiento\tienda-inteligente\cv-lab\dataset\images\crops\water\Captura_010_slot_15.png,water,soda
+Captura_010,23,C:\Users\estudiante\Desktop\Entrenamiento\tienda-inteligente\cv-lab\dataset\images\crops\milk\Captura_010_slot_23.png,milk,cereal
+Captura_010,24,C:\Users\estudiante\Desktop\Entrenamiento\tienda-inteligente\cv-lab\dataset\images\crops\juice\Captura_010_slot_24.png,juice,cereal
+Captura_011,1,C:\Users\estudiante\Desktop\Entrenamiento\tienda-inteligente\cv-lab\dataset\images\crops\empty\Captura_011_slot_01.png,empty,cookies
+Captura_011,10,C:\Users\estudiante\Desktop\Entrenamiento\tienda-inteligente\cv-lab\dataset\images\crops\empty\Captura_011_slot_10.png,empty,soda
+Captura_011,13,C:\Users\estudiante\Desktop\Entrenamiento\tienda-inteligente\cv-lab\dataset\images\crops\detergent\Captura_011_slot_13.png,detergent,cookies
+Captura_012,1,C:\Users\estudiante\Desktop\Entrenamiento\tienda-inteligente\cv-lab\dataset\images\crops\milk\Captura_012_slot_01.png,milk,empty
+Captura_012,8,C:\Users\estudiante\Desktop\Entrenamiento\tienda-inteligente\cv-lab\dataset\images\crops\empty\Captura_012_slot_08.png,empty,water
+Captura_012,10,C:\Users\estudiante\Desktop\Entrenamiento\tienda-inteligente\cv-lab\dataset\images\crops\empty\Captura_012_slot_10.png,empty,juice
+Captura_012,32,C:\Users\estudiante\Desktop\Entrenamiento\tienda-inteligente\cv-lab\dataset\images\crops\water\Captura_012_slot_32.png,water,empty

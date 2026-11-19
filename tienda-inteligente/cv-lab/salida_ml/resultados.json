@@ -1,0 +1,397 @@
+{
+  "description": "Primera línea base HOG + SVM; prueba independiente del entrenamiento.",
+  "counts": {
+    "total": 480,
+    "train": 288,
+    "validation": 96,
+    "test": 96
+  },
+  "classes": [
+    "canned",
+    "cereal",
+    "cookies",
+    "detergent",
+    "empty",
+    "juice",
+    "milk",
+    "soda",
+    "water"
+  ],
+  "evaluations": {
+    "validation": {
+      "accuracy": 0.8854,
+      "macro_f1_present_classes": 0.6137,
+      "weighted_f1": 0.8773,
+      "correct": 85,
+      "total": 96,
+      "per_class": [
+        {
+          "class_id": "canned",
+          "support": 3,
+          "predicted_count": 3,
+          "precision": 1.0,
+          "recall": 1.0,
+          "f1": 1.0
+        },
+        {
+          "class_id": "cereal",
+          "support": 4,
+          "predicted_count": 6,
+          "precision": 0.6667,
+          "recall": 1.0,
+          "f1": 0.8
+        },
+        {
+          "class_id": "cookies",
+          "support": 4,
+          "predicted_count": 6,
+          "precision": 0.6667,
+          "recall": 1.0,
+          "f1": 0.8
+        },
+        {
+          "class_id": "detergent",
+          "support": 2,
+          "predicted_count": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "class_id": "empty",
+          "support": 70,
+          "predicted_count": 68,
+          "precision": 0.9706,
+          "recall": 0.9429,
+          "f1": 0.9565
+        },
+        {
+          "class_id": "juice",
+          "support": 1,
+          "predicted_count": 1,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "class_id": "milk",
+          "support": 4,
+          "predicted_count": 2,
+          "precision": 1.0,
+          "recall": 0.5,
+          "f1": 0.6667
+        },
+        {
+          "class_id": "soda",
+          "support": 4,
+          "predicted_count": 6,
+          "precision": 0.6667,
+          "recall": 1.0,
+          "f1": 0.8
+        },
+        {
+          "class_id": "water",
+          "support": 4,
+          "predicted_count": 4,
+          "precision": 0.5,
+          "recall": 0.5,
+          "f1": 0.5
+        }
+      ],
+      "confusion_matrix": [
+        [
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          4,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          66,
+          1,
+          0,
+          1,
+          1
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          4,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          1,
+          2
+        ]
+      ],
+      "files": {
+        "confusion_matrix": "matriz_confusion_validation.csv",
+        "per_class_metrics": "metricas_por_clase_validation.csv",
+        "errors": "errores_validation.csv"
+      }
+    },
+    "test": {
+      "accuracy": 0.2188,
+      "macro_f1_present_classes": 0.1611,
+      "weighted_f1": 0.1805,
+      "correct": 21,
+      "total": 96,
+      "per_class": [
+        {
+          "class_id": "canned",
+          "support": 7,
+          "predicted_count": 11,
+          "precision": 0.3636,
+          "recall": 0.5714,
+          "f1": 0.4444
+        },
+        {
+          "class_id": "cereal",
+          "support": 11,
+          "predicted_count": 3,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "class_id": "cookies",
+          "support": 10,
+          "predicted_count": 21,
+          "precision": 0.0952,
+          "recall": 0.2,
+          "f1": 0.129
+        },
+        {
+          "class_id": "detergent",
+          "support": 8,
+          "predicted_count": 6,
+          "precision": 0.3333,
+          "recall": 0.25,
+          "f1": 0.2857
+        },
+        {
+          "class_id": "empty",
+          "support": 18,
+          "predicted_count": 26,
+          "precision": 0.5,
+          "recall": 0.7222,
+          "f1": 0.5909
+        },
+        {
+          "class_id": "juice",
+          "support": 10,
+          "predicted_count": 18,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "class_id": "milk",
+          "support": 12,
+          "predicted_count": 7,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "class_id": "soda",
+          "support": 7,
+          "predicted_count": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "class_id": "water",
+          "support": 13,
+          "predicted_count": 4,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          4,
+          0,
+          1,
+          0,
+          2,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          2,
+          0,
+          2,
+          5,
+          0,
+          0,
+          0
+        ],
+        [
+          2,
+          0,
+          2,
+          1,
+          2,
+          3,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          2,
+          2,
+          2,
+          0,
+          2,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          2,
+          0,
+          13,
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          5,
+          0,
+          2,
+          0,
+          1,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          4,
+          3,
+          2,
+          2,
+          0,
+          0,
+          1
+        ],
+        [
+          1,
+          0,
+          1,
+          0,
+          3,
+          0,
+          0,
+          0,
+          2
+        ],
+        [
+          1,
+          0,
+          2,
+          0,
+          0,
+          4,
+          6,
+          0,
+          0
+        ]
+      ],
+      "files": {
+        "confusion_matrix": "matriz_confusion_test.csv",
+        "per_class_metrics": "metricas_por_clase_test.csv",
+        "errors": "errores_test.csv"
+      }
+    }
+  },
+  "model_file": "modelo_hog_svm.yml"
+}

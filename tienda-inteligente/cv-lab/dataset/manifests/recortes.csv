@@ -1,0 +1,481 @@
+﻿capture_id,source_image,label_json,slot,row,column,class_id,class_name,occupied,crop_path
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,1,1,1,water,Agua mineral,True,dataset\images\crops\water\captura_001_slot_01.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,2,1,2,detergent,Detergente,True,dataset\images\crops\detergent\captura_001_slot_02.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,3,1,3,detergent,Detergente,True,dataset\images\crops\detergent\captura_001_slot_03.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,4,1,4,milk,Leche entera,True,dataset\images\crops\milk\captura_001_slot_04.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,5,1,5,cereal,Cereal,True,dataset\images\crops\cereal\captura_001_slot_05.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,6,1,6,cookies,Galletas,True,dataset\images\crops\cookies\captura_001_slot_06.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,7,1,7,milk,Leche entera,True,dataset\images\crops\milk\captura_001_slot_07.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,8,1,8,water,Agua mineral,True,dataset\images\crops\water\captura_001_slot_08.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,9,2,1,milk,Leche entera,True,dataset\images\crops\milk\captura_001_slot_09.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,10,2,2,milk,Leche entera,True,dataset\images\crops\milk\captura_001_slot_10.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,11,2,3,soda,Gaseosa,True,dataset\images\crops\soda\captura_001_slot_11.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,12,2,4,cookies,Galletas,True,dataset\images\crops\cookies\captura_001_slot_12.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,13,2,5,canned,Conserva,True,dataset\images\crops\canned\captura_001_slot_13.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,14,2,6,empty,Vacío,False,dataset\images\crops\empty\captura_001_slot_14.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,15,2,7,detergent,Detergente,True,dataset\images\crops\detergent\captura_001_slot_15.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,16,2,8,soda,Gaseosa,True,dataset\images\crops\soda\captura_001_slot_16.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,17,3,1,soda,Gaseosa,True,dataset\images\crops\soda\captura_001_slot_17.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,18,3,2,cereal,Cereal,True,dataset\images\crops\cereal\captura_001_slot_18.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,19,3,3,water,Agua mineral,True,dataset\images\crops\water\captura_001_slot_19.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,20,3,4,juice,Jugo de naranja,True,dataset\images\crops\juice\captura_001_slot_20.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,21,3,5,juice,Jugo de naranja,True,dataset\images\crops\juice\captura_001_slot_21.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,22,3,6,empty,Vacío,False,dataset\images\crops\empty\captura_001_slot_22.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,23,3,7,canned,Conserva,True,dataset\images\crops\canned\captura_001_slot_23.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,24,3,8,soda,Gaseosa,True,dataset\images\crops\soda\captura_001_slot_24.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,25,4,1,water,Agua mineral,True,dataset\images\crops\water\captura_001_slot_25.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,26,4,2,cereal,Cereal,True,dataset\images\crops\cereal\captura_001_slot_26.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,27,4,3,canned,Conserva,True,dataset\images\crops\canned\captura_001_slot_27.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,28,4,4,juice,Jugo de naranja,True,dataset\images\crops\juice\captura_001_slot_28.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,29,4,5,empty,Vacío,False,dataset\images\crops\empty\captura_001_slot_29.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,30,4,6,empty,Vacío,False,dataset\images\crops\empty\captura_001_slot_30.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,31,4,7,cookies,Galletas,True,dataset\images\crops\cookies\captura_001_slot_31.png
+captura_001,dataset\images\raw\captura_001.jpg,dataset\labels\captura_001.json,32,4,8,juice,Jugo de naranja,True,dataset\images\crops\juice\captura_001_slot_32.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,1,1,1,cookies,Galletas,True,dataset\images\crops\cookies\Captura_002_slot_01.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,2,1,2,water,Agua mineral,True,dataset\images\crops\water\Captura_002_slot_02.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,3,1,3,cookies,Galletas,True,dataset\images\crops\cookies\Captura_002_slot_03.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,4,1,4,cereal,Cereal,True,dataset\images\crops\cereal\Captura_002_slot_04.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,5,1,5,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_002_slot_05.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,6,1,6,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_06.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,7,1,7,water,Agua mineral,True,dataset\images\crops\water\Captura_002_slot_07.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,8,1,8,cereal,Cereal,True,dataset\images\crops\cereal\Captura_002_slot_08.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,9,2,1,milk,Leche entera,True,dataset\images\crops\milk\Captura_002_slot_09.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,10,2,2,canned,Conserva,True,dataset\images\crops\canned\Captura_002_slot_10.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,11,2,3,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_11.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,12,2,4,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_12.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,13,2,5,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_13.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,14,2,6,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_002_slot_14.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,15,2,7,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_15.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,16,2,8,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_16.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,17,3,1,canned,Conserva,True,dataset\images\crops\canned\Captura_002_slot_17.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,18,3,2,cereal,Cereal,True,dataset\images\crops\cereal\Captura_002_slot_18.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,19,3,3,milk,Leche entera,True,dataset\images\crops\milk\Captura_002_slot_19.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,20,3,4,canned,Conserva,True,dataset\images\crops\canned\Captura_002_slot_20.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,21,3,5,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_21.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,22,3,6,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_22.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,23,3,7,water,Agua mineral,True,dataset\images\crops\water\Captura_002_slot_23.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,24,3,8,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_24.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,25,4,1,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_25.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,26,4,2,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_26.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,27,4,3,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_27.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,28,4,4,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_28.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,29,4,5,milk,Leche entera,True,dataset\images\crops\milk\Captura_002_slot_29.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,30,4,6,empty,Vacío,False,dataset\images\crops\empty\Captura_002_slot_30.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,31,4,7,milk,Leche entera,True,dataset\images\crops\milk\Captura_002_slot_31.png
+Captura_002,dataset\images\raw\Captura_002.jpg,dataset\labels\Captura_002.json,32,4,8,cookies,Galletas,True,dataset\images\crops\cookies\Captura_002_slot_32.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,1,1,1,cookies,Galletas,True,dataset\images\crops\cookies\Captura_003_slot_01.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,2,1,2,detergent,Detergente,True,dataset\images\crops\detergent\Captura_003_slot_02.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,3,1,3,soda,Gaseosa,True,dataset\images\crops\soda\Captura_003_slot_03.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,4,1,4,detergent,Detergente,True,dataset\images\crops\detergent\Captura_003_slot_04.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,5,1,5,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_003_slot_05.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,6,1,6,cereal,Cereal,True,dataset\images\crops\cereal\Captura_003_slot_06.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,7,1,7,water,Agua mineral,True,dataset\images\crops\water\Captura_003_slot_07.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,8,1,8,canned,Conserva,True,dataset\images\crops\canned\Captura_003_slot_08.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,9,2,1,water,Agua mineral,True,dataset\images\crops\water\Captura_003_slot_09.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,10,2,2,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_003_slot_10.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,11,2,3,soda,Gaseosa,True,dataset\images\crops\soda\Captura_003_slot_11.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,12,2,4,soda,Gaseosa,True,dataset\images\crops\soda\Captura_003_slot_12.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,13,2,5,cereal,Cereal,True,dataset\images\crops\cereal\Captura_003_slot_13.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,14,2,6,soda,Gaseosa,True,dataset\images\crops\soda\Captura_003_slot_14.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,15,2,7,milk,Leche entera,True,dataset\images\crops\milk\Captura_003_slot_15.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,16,2,8,water,Agua mineral,True,dataset\images\crops\water\Captura_003_slot_16.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,17,3,1,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_003_slot_17.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,18,3,2,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_003_slot_18.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,19,3,3,cookies,Galletas,True,dataset\images\crops\cookies\Captura_003_slot_19.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,20,3,4,cookies,Galletas,True,dataset\images\crops\cookies\Captura_003_slot_20.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,21,3,5,detergent,Detergente,True,dataset\images\crops\detergent\Captura_003_slot_21.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,22,3,6,cereal,Cereal,True,dataset\images\crops\cereal\Captura_003_slot_22.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,23,3,7,detergent,Detergente,True,dataset\images\crops\detergent\Captura_003_slot_23.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,24,3,8,canned,Conserva,True,dataset\images\crops\canned\Captura_003_slot_24.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,25,4,1,canned,Conserva,True,dataset\images\crops\canned\Captura_003_slot_25.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,26,4,2,cereal,Cereal,True,dataset\images\crops\cereal\Captura_003_slot_26.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,27,4,3,milk,Leche entera,True,dataset\images\crops\milk\Captura_003_slot_27.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,28,4,4,canned,Conserva,True,dataset\images\crops\canned\Captura_003_slot_28.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,29,4,5,water,Agua mineral,True,dataset\images\crops\water\Captura_003_slot_29.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,30,4,6,milk,Leche entera,True,dataset\images\crops\milk\Captura_003_slot_30.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,31,4,7,milk,Leche entera,True,dataset\images\crops\milk\Captura_003_slot_31.png
+Captura_003,dataset\images\raw\Captura_003.jpg,dataset\labels\Captura_003.json,32,4,8,cookies,Galletas,True,dataset\images\crops\cookies\Captura_003_slot_32.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,1,1,1,detergent,Detergente,True,dataset\images\crops\detergent\Captura_004_slot_01.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,2,1,2,water,Agua mineral,True,dataset\images\crops\water\Captura_004_slot_02.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,3,1,3,empty,Vacío,False,dataset\images\crops\empty\Captura_004_slot_03.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,4,1,4,soda,Gaseosa,True,dataset\images\crops\soda\Captura_004_slot_04.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,5,1,5,empty,Vacío,False,dataset\images\crops\empty\Captura_004_slot_05.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,6,1,6,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_004_slot_06.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,7,1,7,empty,Vacío,False,dataset\images\crops\empty\Captura_004_slot_07.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,8,1,8,soda,Gaseosa,True,dataset\images\crops\soda\Captura_004_slot_08.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,9,2,1,water,Agua mineral,True,dataset\images\crops\water\Captura_004_slot_09.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,10,2,2,milk,Leche entera,True,dataset\images\crops\milk\Captura_004_slot_10.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,11,2,3,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_004_slot_11.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,12,2,4,water,Agua mineral,True,dataset\images\crops\water\Captura_004_slot_12.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,13,2,5,soda,Gaseosa,True,dataset\images\crops\soda\Captura_004_slot_13.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,14,2,6,soda,Gaseosa,True,dataset\images\crops\soda\Captura_004_slot_14.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,15,2,7,soda,Gaseosa,True,dataset\images\crops\soda\Captura_004_slot_15.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,16,2,8,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_004_slot_16.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,17,3,1,empty,Vacío,False,dataset\images\crops\empty\Captura_004_slot_17.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,18,3,2,empty,Vacío,False,dataset\images\crops\empty\Captura_004_slot_18.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,19,3,3,empty,Vacío,False,dataset\images\crops\empty\Captura_004_slot_19.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,20,3,4,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_004_slot_20.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,21,3,5,soda,Gaseosa,True,dataset\images\crops\soda\Captura_004_slot_21.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,22,3,6,cookies,Galletas,True,dataset\images\crops\cookies\Captura_004_slot_22.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,23,3,7,cereal,Cereal,True,dataset\images\crops\cereal\Captura_004_slot_23.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,24,3,8,canned,Conserva,True,dataset\images\crops\canned\Captura_004_slot_24.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,25,4,1,water,Agua mineral,True,dataset\images\crops\water\Captura_004_slot_25.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,26,4,2,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_004_slot_26.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,27,4,3,water,Agua mineral,True,dataset\images\crops\water\Captura_004_slot_27.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,28,4,4,water,Agua mineral,True,dataset\images\crops\water\Captura_004_slot_28.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,29,4,5,soda,Gaseosa,True,dataset\images\crops\soda\Captura_004_slot_29.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,30,4,6,water,Agua mineral,True,dataset\images\crops\water\Captura_004_slot_30.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,31,4,7,empty,Vacío,False,dataset\images\crops\empty\Captura_004_slot_31.png
+Captura_004,dataset\images\raw\Captura_004.jpg,dataset\labels\Captura_004.json,32,4,8,empty,Vacío,False,dataset\images\crops\empty\Captura_004_slot_32.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,1,1,1,soda,Gaseosa,True,dataset\images\crops\soda\Captura_005_slot_01.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,2,1,2,cookies,Galletas,True,dataset\images\crops\cookies\Captura_005_slot_02.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,3,1,3,empty,Vacío,False,dataset\images\crops\empty\Captura_005_slot_03.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,4,1,4,soda,Gaseosa,True,dataset\images\crops\soda\Captura_005_slot_04.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,5,1,5,canned,Conserva,True,dataset\images\crops\canned\Captura_005_slot_05.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,6,1,6,empty,Vacío,False,dataset\images\crops\empty\Captura_005_slot_06.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,7,1,7,detergent,Detergente,True,dataset\images\crops\detergent\Captura_005_slot_07.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,8,1,8,water,Agua mineral,True,dataset\images\crops\water\Captura_005_slot_08.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,9,2,1,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_005_slot_09.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,10,2,2,empty,Vacío,False,dataset\images\crops\empty\Captura_005_slot_10.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,11,2,3,cereal,Cereal,True,dataset\images\crops\cereal\Captura_005_slot_11.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,12,2,4,soda,Gaseosa,True,dataset\images\crops\soda\Captura_005_slot_12.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,13,2,5,detergent,Detergente,True,dataset\images\crops\detergent\Captura_005_slot_13.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,14,2,6,milk,Leche entera,True,dataset\images\crops\milk\Captura_005_slot_14.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,15,2,7,water,Agua mineral,True,dataset\images\crops\water\Captura_005_slot_15.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,16,2,8,empty,Vacío,False,dataset\images\crops\empty\Captura_005_slot_16.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,17,3,1,detergent,Detergente,True,dataset\images\crops\detergent\Captura_005_slot_17.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,18,3,2,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_005_slot_18.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,19,3,3,cereal,Cereal,True,dataset\images\crops\cereal\Captura_005_slot_19.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,20,3,4,empty,Vacío,False,dataset\images\crops\empty\Captura_005_slot_20.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,21,3,5,soda,Gaseosa,True,dataset\images\crops\soda\Captura_005_slot_21.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,22,3,6,cookies,Galletas,True,dataset\images\crops\cookies\Captura_005_slot_22.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,23,3,7,empty,Vacío,False,dataset\images\crops\empty\Captura_005_slot_23.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,24,3,8,water,Agua mineral,True,dataset\images\crops\water\Captura_005_slot_24.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,25,4,1,empty,Vacío,False,dataset\images\crops\empty\Captura_005_slot_25.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,26,4,2,detergent,Detergente,True,dataset\images\crops\detergent\Captura_005_slot_26.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,27,4,3,cookies,Galletas,True,dataset\images\crops\cookies\Captura_005_slot_27.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,28,4,4,milk,Leche entera,True,dataset\images\crops\milk\Captura_005_slot_28.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,29,4,5,empty,Vacío,False,dataset\images\crops\empty\Captura_005_slot_29.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,30,4,6,milk,Leche entera,True,dataset\images\crops\milk\Captura_005_slot_30.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,31,4,7,empty,Vacío,False,dataset\images\crops\empty\Captura_005_slot_31.png
+Captura_005,dataset\images\raw\Captura_005.jpg,dataset\labels\Captura_005.json,32,4,8,empty,Vacío,False,dataset\images\crops\empty\Captura_005_slot_32.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,1,1,1,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_01.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,2,1,2,cookies,Galletas,True,dataset\images\crops\cookies\Captura_006_slot_02.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,3,1,3,cereal,Cereal,True,dataset\images\crops\cereal\Captura_006_slot_03.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,4,1,4,water,Agua mineral,True,dataset\images\crops\water\Captura_006_slot_04.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,5,1,5,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_006_slot_05.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,6,1,6,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_06.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,7,1,7,detergent,Detergente,True,dataset\images\crops\detergent\Captura_006_slot_07.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,8,1,8,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_08.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,9,2,1,cereal,Cereal,True,dataset\images\crops\cereal\Captura_006_slot_09.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,10,2,2,water,Agua mineral,True,dataset\images\crops\water\Captura_006_slot_10.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,11,2,3,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_11.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,12,2,4,canned,Conserva,True,dataset\images\crops\canned\Captura_006_slot_12.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,13,2,5,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_13.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,14,2,6,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_14.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,15,2,7,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_15.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,16,2,8,canned,Conserva,True,dataset\images\crops\canned\Captura_006_slot_16.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,17,3,1,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_17.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,18,3,2,canned,Conserva,True,dataset\images\crops\canned\Captura_006_slot_18.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,19,3,3,cereal,Cereal,True,dataset\images\crops\cereal\Captura_006_slot_19.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,20,3,4,water,Agua mineral,True,dataset\images\crops\water\Captura_006_slot_20.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,21,3,5,cookies,Galletas,True,dataset\images\crops\cookies\Captura_006_slot_21.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,22,3,6,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_22.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,23,3,7,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_23.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,24,3,8,soda,Gaseosa,True,dataset\images\crops\soda\Captura_006_slot_24.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,25,4,1,milk,Leche entera,True,dataset\images\crops\milk\Captura_006_slot_25.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,26,4,2,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_26.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,27,4,3,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_27.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,28,4,4,cookies,Galletas,True,dataset\images\crops\cookies\Captura_006_slot_28.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,29,4,5,canned,Conserva,True,dataset\images\crops\canned\Captura_006_slot_29.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,30,4,6,empty,Vacío,False,dataset\images\crops\empty\Captura_006_slot_30.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,31,4,7,detergent,Detergente,True,dataset\images\crops\detergent\Captura_006_slot_31.png
+Captura_006,dataset\images\raw\Captura_006.jpg,dataset\labels\Captura_006.json,32,4,8,milk,Leche entera,True,dataset\images\crops\milk\Captura_006_slot_32.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,1,1,1,cookies,Galletas,True,dataset\images\crops\cookies\Captura_007_slot_01.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,2,1,2,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_007_slot_02.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,3,1,3,cereal,Cereal,True,dataset\images\crops\cereal\Captura_007_slot_03.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,4,1,4,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_04.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,5,1,5,water,Agua mineral,True,dataset\images\crops\water\Captura_007_slot_05.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,6,1,6,canned,Conserva,True,dataset\images\crops\canned\Captura_007_slot_06.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,7,1,7,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_07.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,8,1,8,water,Agua mineral,True,dataset\images\crops\water\Captura_007_slot_08.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,9,2,1,soda,Gaseosa,True,dataset\images\crops\soda\Captura_007_slot_09.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,10,2,2,soda,Gaseosa,True,dataset\images\crops\soda\Captura_007_slot_10.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,11,2,3,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_11.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,12,2,4,cookies,Galletas,True,dataset\images\crops\cookies\Captura_007_slot_12.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,13,2,5,soda,Gaseosa,True,dataset\images\crops\soda\Captura_007_slot_13.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,14,2,6,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_14.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,15,2,7,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_15.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,16,2,8,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_16.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,17,3,1,milk,Leche entera,True,dataset\images\crops\milk\Captura_007_slot_17.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,18,3,2,cereal,Cereal,True,dataset\images\crops\cereal\Captura_007_slot_18.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,19,3,3,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_19.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,20,3,4,soda,Gaseosa,True,dataset\images\crops\soda\Captura_007_slot_20.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,21,3,5,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_21.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,22,3,6,detergent,Detergente,True,dataset\images\crops\detergent\Captura_007_slot_22.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,23,3,7,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_23.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,24,3,8,cereal,Cereal,True,dataset\images\crops\cereal\Captura_007_slot_24.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,25,4,1,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_007_slot_25.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,26,4,2,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_26.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,27,4,3,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_27.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,28,4,4,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_007_slot_28.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,29,4,5,soda,Gaseosa,True,dataset\images\crops\soda\Captura_007_slot_29.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,30,4,6,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_30.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,31,4,7,cereal,Cereal,True,dataset\images\crops\cereal\Captura_007_slot_31.png
+Captura_007,dataset\images\raw\Captura_007.jpg,dataset\labels\Captura_007.json,32,4,8,empty,Vacío,False,dataset\images\crops\empty\Captura_007_slot_32.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,1,1,1,soda,Gaseosa,True,dataset\images\crops\soda\Captura_008_slot_01.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,2,1,2,detergent,Detergente,True,dataset\images\crops\detergent\Captura_008_slot_02.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,3,1,3,milk,Leche entera,True,dataset\images\crops\milk\Captura_008_slot_03.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,4,1,4,milk,Leche entera,True,dataset\images\crops\milk\Captura_008_slot_04.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,5,1,5,canned,Conserva,True,dataset\images\crops\canned\Captura_008_slot_05.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,6,1,6,cereal,Cereal,True,dataset\images\crops\cereal\Captura_008_slot_06.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,7,1,7,soda,Gaseosa,True,dataset\images\crops\soda\Captura_008_slot_07.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,8,1,8,cereal,Cereal,True,dataset\images\crops\cereal\Captura_008_slot_08.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,9,2,1,water,Agua mineral,True,dataset\images\crops\water\Captura_008_slot_09.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,10,2,2,cookies,Galletas,True,dataset\images\crops\cookies\Captura_008_slot_10.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,11,2,3,cookies,Galletas,True,dataset\images\crops\cookies\Captura_008_slot_11.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,12,2,4,cookies,Galletas,True,dataset\images\crops\cookies\Captura_008_slot_12.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,13,2,5,empty,Vacío,False,dataset\images\crops\empty\Captura_008_slot_13.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,14,2,6,cookies,Galletas,True,dataset\images\crops\cookies\Captura_008_slot_14.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,15,2,7,soda,Gaseosa,True,dataset\images\crops\soda\Captura_008_slot_15.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,16,2,8,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_008_slot_16.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,17,3,1,detergent,Detergente,True,dataset\images\crops\detergent\Captura_008_slot_17.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,18,3,2,cookies,Galletas,True,dataset\images\crops\cookies\Captura_008_slot_18.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,19,3,3,cookies,Galletas,True,dataset\images\crops\cookies\Captura_008_slot_19.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,20,3,4,soda,Gaseosa,True,dataset\images\crops\soda\Captura_008_slot_20.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,21,3,5,canned,Conserva,True,dataset\images\crops\canned\Captura_008_slot_21.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,22,3,6,cookies,Galletas,True,dataset\images\crops\cookies\Captura_008_slot_22.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,23,3,7,empty,Vacío,False,dataset\images\crops\empty\Captura_008_slot_23.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,24,3,8,cereal,Cereal,True,dataset\images\crops\cereal\Captura_008_slot_24.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,25,4,1,milk,Leche entera,True,dataset\images\crops\milk\Captura_008_slot_25.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,26,4,2,cookies,Galletas,True,dataset\images\crops\cookies\Captura_008_slot_26.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,27,4,3,empty,Vacío,False,dataset\images\crops\empty\Captura_008_slot_27.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,28,4,4,cookies,Galletas,True,dataset\images\crops\cookies\Captura_008_slot_28.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,29,4,5,cereal,Cereal,True,dataset\images\crops\cereal\Captura_008_slot_29.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,30,4,6,milk,Leche entera,True,dataset\images\crops\milk\Captura_008_slot_30.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,31,4,7,canned,Conserva,True,dataset\images\crops\canned\Captura_008_slot_31.png
+Captura_008,dataset\images\raw\Captura_008.jpg,dataset\labels\Captura_008.json,32,4,8,cereal,Cereal,True,dataset\images\crops\cereal\Captura_008_slot_32.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,1,1,1,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_009_slot_01.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,2,1,2,empty,Vacío,False,dataset\images\crops\empty\Captura_009_slot_02.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,3,1,3,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_009_slot_03.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,4,1,4,empty,Vacío,False,dataset\images\crops\empty\Captura_009_slot_04.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,5,1,5,cereal,Cereal,True,dataset\images\crops\cereal\Captura_009_slot_05.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,6,1,6,milk,Leche entera,True,dataset\images\crops\milk\Captura_009_slot_06.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,7,1,7,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_009_slot_07.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,8,1,8,empty,Vacío,False,dataset\images\crops\empty\Captura_009_slot_08.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,9,2,1,soda,Gaseosa,True,dataset\images\crops\soda\Captura_009_slot_09.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,10,2,2,milk,Leche entera,True,dataset\images\crops\milk\Captura_009_slot_10.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,11,2,3,milk,Leche entera,True,dataset\images\crops\milk\Captura_009_slot_11.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,12,2,4,cereal,Cereal,True,dataset\images\crops\cereal\Captura_009_slot_12.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,13,2,5,cereal,Cereal,True,dataset\images\crops\cereal\Captura_009_slot_13.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,14,2,6,water,Agua mineral,True,dataset\images\crops\water\Captura_009_slot_14.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,15,2,7,cookies,Galletas,True,dataset\images\crops\cookies\Captura_009_slot_15.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,16,2,8,empty,Vacío,False,dataset\images\crops\empty\Captura_009_slot_16.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,17,3,1,empty,Vacío,False,dataset\images\crops\empty\Captura_009_slot_17.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,18,3,2,canned,Conserva,True,dataset\images\crops\canned\Captura_009_slot_18.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,19,3,3,empty,Vacío,False,dataset\images\crops\empty\Captura_009_slot_19.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,20,3,4,milk,Leche entera,True,dataset\images\crops\milk\Captura_009_slot_20.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,21,3,5,canned,Conserva,True,dataset\images\crops\canned\Captura_009_slot_21.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,22,3,6,detergent,Detergente,True,dataset\images\crops\detergent\Captura_009_slot_22.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,23,3,7,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_009_slot_23.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,24,3,8,soda,Gaseosa,True,dataset\images\crops\soda\Captura_009_slot_24.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,25,4,1,empty,Vacío,False,dataset\images\crops\empty\Captura_009_slot_25.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,26,4,2,empty,Vacío,False,dataset\images\crops\empty\Captura_009_slot_26.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,27,4,3,cookies,Galletas,True,dataset\images\crops\cookies\Captura_009_slot_27.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,28,4,4,cereal,Cereal,True,dataset\images\crops\cereal\Captura_009_slot_28.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,29,4,5,cereal,Cereal,True,dataset\images\crops\cereal\Captura_009_slot_29.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,30,4,6,empty,Vacío,False,dataset\images\crops\empty\Captura_009_slot_30.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,31,4,7,cookies,Galletas,True,dataset\images\crops\cookies\Captura_009_slot_31.png
+Captura_009,dataset\images\raw\Captura_009.jpg,dataset\labels\Captura_009.json,32,4,8,detergent,Detergente,True,dataset\images\crops\detergent\Captura_009_slot_32.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,1,1,1,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_01.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,2,1,2,milk,Leche entera,True,dataset\images\crops\milk\Captura_010_slot_02.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,3,1,3,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_03.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,4,1,4,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_04.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,5,1,5,milk,Leche entera,True,dataset\images\crops\milk\Captura_010_slot_05.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,6,1,6,cereal,Cereal,True,dataset\images\crops\cereal\Captura_010_slot_06.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,7,1,7,canned,Conserva,True,dataset\images\crops\canned\Captura_010_slot_07.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,8,1,8,detergent,Detergente,True,dataset\images\crops\detergent\Captura_010_slot_08.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,9,2,1,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_09.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,10,2,2,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_10.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,11,2,3,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_11.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,12,2,4,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_12.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,13,2,5,canned,Conserva,True,dataset\images\crops\canned\Captura_010_slot_13.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,14,2,6,cookies,Galletas,True,dataset\images\crops\cookies\Captura_010_slot_14.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,15,2,7,water,Agua mineral,True,dataset\images\crops\water\Captura_010_slot_15.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,16,2,8,soda,Gaseosa,True,dataset\images\crops\soda\Captura_010_slot_16.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,17,3,1,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_17.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,18,3,2,soda,Gaseosa,True,dataset\images\crops\soda\Captura_010_slot_18.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,19,3,3,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_19.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,20,3,4,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_20.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,21,3,5,soda,Gaseosa,True,dataset\images\crops\soda\Captura_010_slot_21.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,22,3,6,cereal,Cereal,True,dataset\images\crops\cereal\Captura_010_slot_22.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,23,3,7,milk,Leche entera,True,dataset\images\crops\milk\Captura_010_slot_23.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,24,3,8,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_010_slot_24.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,25,4,1,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_25.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,26,4,2,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_26.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,27,4,3,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_27.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,28,4,4,empty,Vacío,False,dataset\images\crops\empty\Captura_010_slot_28.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,29,4,5,canned,Conserva,True,dataset\images\crops\canned\Captura_010_slot_29.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,30,4,6,water,Agua mineral,True,dataset\images\crops\water\Captura_010_slot_30.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,31,4,7,water,Agua mineral,True,dataset\images\crops\water\Captura_010_slot_31.png
+Captura_010,dataset\images\raw\Captura_010.jpg,dataset\labels\Captura_010.json,32,4,8,cookies,Galletas,True,dataset\images\crops\cookies\Captura_010_slot_32.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,1,1,1,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_01.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,2,1,2,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_02.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,3,1,3,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_03.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,4,1,4,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_04.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,5,1,5,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_05.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,6,1,6,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_06.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,7,1,7,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_07.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,8,1,8,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_08.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,9,2,1,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_09.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,10,2,2,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_10.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,11,2,3,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_11.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,12,2,4,soda,Gaseosa,True,dataset\images\crops\soda\Captura_011_slot_12.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,13,2,5,detergent,Detergente,True,dataset\images\crops\detergent\Captura_011_slot_13.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,14,2,6,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_14.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,15,2,7,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_15.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,16,2,8,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_16.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,17,3,1,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_17.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,18,3,2,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_18.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,19,3,3,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_19.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,20,3,4,cookies,Galletas,True,dataset\images\crops\cookies\Captura_011_slot_20.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,21,3,5,cereal,Cereal,True,dataset\images\crops\cereal\Captura_011_slot_21.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,22,3,6,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_22.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,23,3,7,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_23.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,24,3,8,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_24.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,25,4,1,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_25.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,26,4,2,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_26.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,27,4,3,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_27.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,28,4,4,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_28.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,29,4,5,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_29.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,30,4,6,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_30.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,31,4,7,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_31.png
+Captura_011,dataset\images\raw\Captura_011.jpg,dataset\labels\Captura_011.json,32,4,8,empty,Vacío,False,dataset\images\crops\empty\Captura_011_slot_32.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,1,1,1,milk,Leche entera,True,dataset\images\crops\milk\Captura_012_slot_01.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,2,1,2,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_02.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,3,1,3,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_03.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,4,1,4,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_04.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,5,1,5,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_05.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,6,1,6,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_06.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,7,1,7,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_07.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,8,1,8,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_08.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,9,2,1,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_09.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,10,2,2,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_10.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,11,2,3,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_11.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,12,2,4,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_12.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,13,2,5,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_13.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,14,2,6,cereal,Cereal,True,dataset\images\crops\cereal\Captura_012_slot_14.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,15,2,7,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_15.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,16,2,8,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_16.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,17,3,1,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_17.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,18,3,2,cookies,Galletas,True,dataset\images\crops\cookies\Captura_012_slot_18.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,19,3,3,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_19.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,20,3,4,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_20.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,21,3,5,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_21.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,22,3,6,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_22.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,23,3,7,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_23.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,24,3,8,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_24.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,25,4,1,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_25.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,26,4,2,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_26.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,27,4,3,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_27.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,28,4,4,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_28.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,29,4,5,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_29.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,30,4,6,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_30.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,31,4,7,empty,Vacío,False,dataset\images\crops\empty\Captura_012_slot_31.png
+Captura_012,dataset\images\raw\Captura_012.jpg,dataset\labels\Captura_012.json,32,4,8,water,Agua mineral,True,dataset\images\crops\water\Captura_012_slot_32.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,1,1,1,detergent,Detergente,True,dataset\images\crops\detergent\Captura_013_slot_01.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,2,1,2,water,Agua mineral,True,dataset\images\crops\water\Captura_013_slot_02.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,3,1,3,empty,Vacío,False,dataset\images\crops\empty\Captura_013_slot_03.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,4,1,4,empty,Vacío,False,dataset\images\crops\empty\Captura_013_slot_04.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,5,1,5,empty,Vacío,False,dataset\images\crops\empty\Captura_013_slot_05.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,6,1,6,water,Agua mineral,True,dataset\images\crops\water\Captura_013_slot_06.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,7,1,7,water,Agua mineral,True,dataset\images\crops\water\Captura_013_slot_07.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,8,1,8,cookies,Galletas,True,dataset\images\crops\cookies\Captura_013_slot_08.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,9,2,1,empty,Vacío,False,dataset\images\crops\empty\Captura_013_slot_09.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,10,2,2,soda,Gaseosa,True,dataset\images\crops\soda\Captura_013_slot_10.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,11,2,3,water,Agua mineral,True,dataset\images\crops\water\Captura_013_slot_11.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,12,2,4,milk,Leche entera,True,dataset\images\crops\milk\Captura_013_slot_12.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,13,2,5,milk,Leche entera,True,dataset\images\crops\milk\Captura_013_slot_13.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,14,2,6,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_013_slot_14.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,15,2,7,canned,Conserva,True,dataset\images\crops\canned\Captura_013_slot_15.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,16,2,8,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_013_slot_16.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,17,3,1,empty,Vacío,False,dataset\images\crops\empty\Captura_013_slot_17.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,18,3,2,milk,Leche entera,True,dataset\images\crops\milk\Captura_013_slot_18.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,19,3,3,canned,Conserva,True,dataset\images\crops\canned\Captura_013_slot_19.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,20,3,4,empty,Vacío,False,dataset\images\crops\empty\Captura_013_slot_20.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,21,3,5,cereal,Cereal,True,dataset\images\crops\cereal\Captura_013_slot_21.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,22,3,6,milk,Leche entera,True,dataset\images\crops\milk\Captura_013_slot_22.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,23,3,7,cereal,Cereal,True,dataset\images\crops\cereal\Captura_013_slot_23.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,24,3,8,canned,Conserva,True,dataset\images\crops\canned\Captura_013_slot_24.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,25,4,1,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_013_slot_25.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,26,4,2,empty,Vacío,False,dataset\images\crops\empty\Captura_013_slot_26.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,27,4,3,milk,Leche entera,True,dataset\images\crops\milk\Captura_013_slot_27.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,28,4,4,canned,Conserva,True,dataset\images\crops\canned\Captura_013_slot_28.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,29,4,5,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_013_slot_29.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,30,4,6,water,Agua mineral,True,dataset\images\crops\water\Captura_013_slot_30.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,31,4,7,canned,Conserva,True,dataset\images\crops\canned\Captura_013_slot_31.png
+Captura_013,dataset\images\raw\Captura_013.jpg,dataset\labels\Captura_013.json,32,4,8,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_013_slot_32.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,1,1,1,detergent,Detergente,True,dataset\images\crops\detergent\Captura_014_slot_01.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,2,1,2,empty,Vacío,False,dataset\images\crops\empty\Captura_014_slot_02.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,3,1,3,detergent,Detergente,True,dataset\images\crops\detergent\Captura_014_slot_03.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,4,1,4,detergent,Detergente,True,dataset\images\crops\detergent\Captura_014_slot_04.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,5,1,5,cookies,Galletas,True,dataset\images\crops\cookies\Captura_014_slot_05.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,6,1,6,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_014_slot_06.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,7,1,7,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_014_slot_07.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,8,1,8,empty,Vacío,False,dataset\images\crops\empty\Captura_014_slot_08.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,9,2,1,empty,Vacío,False,dataset\images\crops\empty\Captura_014_slot_09.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,10,2,2,water,Agua mineral,True,dataset\images\crops\water\Captura_014_slot_10.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,11,2,3,cookies,Galletas,True,dataset\images\crops\cookies\Captura_014_slot_11.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,12,2,4,detergent,Detergente,True,dataset\images\crops\detergent\Captura_014_slot_12.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,13,2,5,cookies,Galletas,True,dataset\images\crops\cookies\Captura_014_slot_13.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,14,2,6,milk,Leche entera,True,dataset\images\crops\milk\Captura_014_slot_14.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,15,2,7,milk,Leche entera,True,dataset\images\crops\milk\Captura_014_slot_15.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,16,2,8,cereal,Cereal,True,dataset\images\crops\cereal\Captura_014_slot_16.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,17,3,1,cereal,Cereal,True,dataset\images\crops\cereal\Captura_014_slot_17.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,18,3,2,milk,Leche entera,True,dataset\images\crops\milk\Captura_014_slot_18.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,19,3,3,milk,Leche entera,True,dataset\images\crops\milk\Captura_014_slot_19.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,20,3,4,water,Agua mineral,True,dataset\images\crops\water\Captura_014_slot_20.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,21,3,5,empty,Vacío,False,dataset\images\crops\empty\Captura_014_slot_21.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,22,3,6,water,Agua mineral,True,dataset\images\crops\water\Captura_014_slot_22.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,23,3,7,canned,Conserva,True,dataset\images\crops\canned\Captura_014_slot_23.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,24,3,8,cookies,Galletas,True,dataset\images\crops\cookies\Captura_014_slot_24.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,25,4,1,water,Agua mineral,True,dataset\images\crops\water\Captura_014_slot_25.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,26,4,2,water,Agua mineral,True,dataset\images\crops\water\Captura_014_slot_26.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,27,4,3,empty,Vacío,False,dataset\images\crops\empty\Captura_014_slot_27.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,28,4,4,cereal,Cereal,True,dataset\images\crops\cereal\Captura_014_slot_28.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,29,4,5,cereal,Cereal,True,dataset\images\crops\cereal\Captura_014_slot_29.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,30,4,6,cereal,Cereal,True,dataset\images\crops\cereal\Captura_014_slot_30.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,31,4,7,detergent,Detergente,True,dataset\images\crops\detergent\Captura_014_slot_31.png
+Captura_014,dataset\images\raw\Captura_014.jpg,dataset\labels\Captura_014.json,32,4,8,cookies,Galletas,True,dataset\images\crops\cookies\Captura_014_slot_32.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,1,1,1,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_015_slot_01.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,2,1,2,cookies,Galletas,True,dataset\images\crops\cookies\Captura_015_slot_02.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,3,1,3,water,Agua mineral,True,dataset\images\crops\water\Captura_015_slot_03.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,4,1,4,soda,Gaseosa,True,dataset\images\crops\soda\Captura_015_slot_04.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,5,1,5,cereal,Cereal,True,dataset\images\crops\cereal\Captura_015_slot_05.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,6,1,6,soda,Gaseosa,True,dataset\images\crops\soda\Captura_015_slot_06.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,7,1,7,cereal,Cereal,True,dataset\images\crops\cereal\Captura_015_slot_07.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,8,1,8,soda,Gaseosa,True,dataset\images\crops\soda\Captura_015_slot_08.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,9,2,1,empty,Vacío,False,dataset\images\crops\empty\Captura_015_slot_09.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,10,2,2,water,Agua mineral,True,dataset\images\crops\water\Captura_015_slot_10.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,11,2,3,empty,Vacío,False,dataset\images\crops\empty\Captura_015_slot_11.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,12,2,4,soda,Gaseosa,True,dataset\images\crops\soda\Captura_015_slot_12.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,13,2,5,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_015_slot_13.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,14,2,6,juice,Jugo de naranja,True,dataset\images\crops\juice\Captura_015_slot_14.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,15,2,7,milk,Leche entera,True,dataset\images\crops\milk\Captura_015_slot_15.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,16,2,8,cookies,Galletas,True,dataset\images\crops\cookies\Captura_015_slot_16.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,17,3,1,detergent,Detergente,True,dataset\images\crops\detergent\Captura_015_slot_17.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,18,3,2,canned,Conserva,True,dataset\images\crops\canned\Captura_015_slot_18.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,19,3,3,cereal,Cereal,True,dataset\images\crops\cereal\Captura_015_slot_19.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,20,3,4,empty,Vacío,False,dataset\images\crops\empty\Captura_015_slot_20.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,21,3,5,cookies,Galletas,True,dataset\images\crops\cookies\Captura_015_slot_21.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,22,3,6,water,Agua mineral,True,dataset\images\crops\water\Captura_015_slot_22.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,23,3,7,empty,Vacío,False,dataset\images\crops\empty\Captura_015_slot_23.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,24,3,8,detergent,Detergente,True,dataset\images\crops\detergent\Captura_015_slot_24.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,25,4,1,empty,Vacío,False,dataset\images\crops\empty\Captura_015_slot_25.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,26,4,2,cookies,Galletas,True,dataset\images\crops\cookies\Captura_015_slot_26.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,27,4,3,soda,Gaseosa,True,dataset\images\crops\soda\Captura_015_slot_27.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,28,4,4,empty,Vacío,False,dataset\images\crops\empty\Captura_015_slot_28.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,29,4,5,soda,Gaseosa,True,dataset\images\crops\soda\Captura_015_slot_29.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,30,4,6,cereal,Cereal,True,dataset\images\crops\cereal\Captura_015_slot_30.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,31,4,7,milk,Leche entera,True,dataset\images\crops\milk\Captura_015_slot_31.png
+Captura_015,dataset\images\raw\Captura_015.jpg,dataset\labels\Captura_015.json,32,4,8,milk,Leche entera,True,dataset\images\crops\milk\Captura_015_slot_32.png

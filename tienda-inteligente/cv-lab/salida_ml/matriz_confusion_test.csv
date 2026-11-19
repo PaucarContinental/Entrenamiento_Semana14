@@ -1,0 +1,10 @@
+﻿real \ predicha,canned,cereal,cookies,detergent,empty,juice,milk,soda,water
+canned,4,0,1,0,2,0,0,0,0
+cereal,2,0,2,0,2,5,0,0,0
+cookies,2,0,2,1,2,3,0,0,0
+detergent,0,2,2,2,0,2,0,0,0
+empty,0,0,2,0,13,2,0,0,1
+juice,1,1,5,0,2,0,1,0,0
+milk,0,0,4,3,2,2,0,0,1
+soda,1,0,1,0,3,0,0,0,2
+water,1,0,2,0,0,4,6,0,0
