@@ -1,0 +1,38 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Datos de trabajo (no subir imágenes de estudiantes ni datos privados)
+data/raw/
+data/private/
+
+# OpenCV y resultados locales
+cv-lab/salida_cv/
+cv-lab/salida_ml/
+cv-lab/imagenes_prueba/
+
+# Dataset local: fotografías y resultados derivados (no subir al repositorio)
+cv-lab/dataset/images/raw/*
+!cv-lab/dataset/images/raw/.gitkeep
+cv-lab/dataset/images/rectified/*
+!cv-lab/dataset/images/rectified/.gitkeep
+cv-lab/dataset/images/crops/*
+!cv-lab/dataset/images/crops/.gitkeep
+
+# Etiquetas y manifiestos del dataset de cada grupo (datos locales)
+cv-lab/dataset/labels/*
+!cv-lab/dataset/labels/.gitkeep
+cv-lab/dataset/manifests/*
+!cv-lab/dataset/manifests/.gitkeep
